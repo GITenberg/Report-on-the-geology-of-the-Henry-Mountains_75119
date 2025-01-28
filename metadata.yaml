@@ -1,5 +1,8 @@
 _repo: Report-on-the-geology-of-the-Henry-Mountains_75119
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75119-h/images/cover.jpg
 creator:
   author:
     agent_name: Gilbert, Grove Karl
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55532
     wikipedia: https://en.wikipedia.org/wiki/Grove_Karl_Gilbert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75119#Report-on-the-geology-of-the-Henry-Mountains
 gutenberg_issued: '2025-01-16'
 gutenberg_type: Text
 identifiers:
